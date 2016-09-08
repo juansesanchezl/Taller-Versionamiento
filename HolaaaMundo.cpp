@@ -4,7 +4,7 @@
     int main()
     {
 	cout << "Hola mundo" << endl;
-	cout << "Hola mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm" << endl;
+	cout << "Hola mundommmmmmmmmmmm" << endl;
         system("PAUSE");
         return 0;
     }
