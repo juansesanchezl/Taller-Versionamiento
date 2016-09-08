@@ -3,7 +3,9 @@
 using namespace std;
 
 int main(){
-
-	count<<"Hola Mundo !!!!"<<endl;
+	String a;
+	cout<<"Hola Mundo !!!!"<<endl;
+	cout<<"Ingresar nombre"<<endl;
+	cin>>a;
 	return 0;
 }
